@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make Anki cards (1)"
-Tags:Anki
+tags:  Anki 
 ---
   近期开始学习通过Anki来背诵英语单词，遇到如下几个问题：
   
