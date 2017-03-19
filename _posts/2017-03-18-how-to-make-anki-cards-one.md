@@ -3,6 +3,7 @@ layout: post
 title:  "How to make Anki cards (1)"
 tags:  Anki 
 ---
+
   近期开始学习通过Anki来背诵英语单词，遇到如下几个问题：
   
 1\. 在英语学习过程中，往往一个词有多个意思，那么如何制作卡片复习背诵比较好？
