@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "第一章:新情况，新做法"
-tags :reading
+tags:  reading
 ---
 
 
